@@ -1,0 +1,5 @@
+C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\obj\Debug\d'ni sudoku.csprojResolveAssemblyReference.cache
+C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\bin\Debug\d'ni sudoku.exe
+C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\bin\Debug\d'ni sudoku.pdb
+C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\obj\Debug\d'ni sudoku.exe
+C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\obj\Debug\d'ni sudoku.pdb
