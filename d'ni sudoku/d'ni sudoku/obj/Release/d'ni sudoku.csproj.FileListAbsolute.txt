@@ -1,3 +1,0 @@
-C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\bin\Release\d'ni sudoku.exe
-C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\obj\Release\d'ni sudoku.csprojResolveAssemblyReference.cache
-C:\Users\princ\Documents\SharpDevelop Projects\d'ni sudoku\d'ni sudoku\obj\Release\d'ni sudoku.exe
